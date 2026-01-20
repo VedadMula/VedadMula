@@ -18,20 +18,12 @@ I’m currently developing core skills in **Python**, **Git/GitHub**, and system
 
 ## 📌 Current Projects
 - 🐍 **Hello World (Python)** – a clean starter project to practice structure, documentation, and testing
-- 🧑‍💻 **GitHub Profile README** – this profile page
+- 🤖 **AI GitHub Agent** – an AI-powered DevOps automation that analyzes and summarizes GitHub issues using Python and CI/CD pipelines
+
 
 ---
 
-## 🎯 Learning Goals (2026)
-- Build 5+ Python projects
-- Learn unit testing with pytest
-- Master Git workflows (branches, pull requests, code reviews)
-- Transition into a software development role
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedadMula&show_icons=true&theme=dark)
 
 <!--
 **VedadMula/VedadMula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
